@@ -1,0 +1,17 @@
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\LexiconTodoList.exe
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\LexiconTodoList.deps.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\LexiconTodoList.runtimeconfig.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\LexiconTodoList.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\LexiconTodoList.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.csproj.AssemblyReference.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.AssemblyInfoInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.AssemblyInfo.cs
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.csproj.CoreCompileInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.csproj.CopyComplete
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\refint\LexiconTodoList.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\LexiconTodoList.genruntimeconfig.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\LexiconTodoList\LexiconTodoList\obj\Debug\net6.0\ref\LexiconTodoList.dll
