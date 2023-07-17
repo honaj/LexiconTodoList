@@ -1,15 +1,42 @@
-﻿Console.WriteLine("Welcome to your todo-list!");
-Console.WriteLine("You x unfinished tasks and y tasks are done!");
-
-List<TodoItem> pendingItems = new();
+﻿List<TodoItem> pendingItems = new();
 List<TodoItem> finishedItems = new();
+int selectionIndex = 0;
 
-MainLoop();
+await LoadTodoItems();
+SelectionMenu();
 return;
 
-void MainLoop()
+void SelectionMenu()
 {
+    var MainMenuItems = new[] {"Show task list", "Add a new task",  "Edit tasks", "Save and quit"};
     
+    Console.WriteLine("Welcome to your todo-list!");
+    Console.WriteLine("You have " + pendingItems.Count + " unfinished tasks and " + finishedItems.Count + " tasks are done!");
+    Console.WriteLine("Pick an option:");
+    
+    
+    ConsoleKeyInfo keyInfo;
+    while ((keyInfo = Console.ReadKey(true)).Key != ConsoleKey.Escape)
+    {
+        switch (keyInfo.Key)
+        {
+            case ConsoleKey.UpArrow:
+                if(selectionIndex < MainMenuItems.Length - 1)
+                    selectionIndex++;
+                break;
+            
+            case ConsoleKey.DownArrow:
+                if(selectionIndex > 0)
+                    selectionIndex--;
+                break;
+            
+            case ConsoleKey.Enter:
+                Console.WriteLine("select");
+                break;
+        }
+        Console.WriteLine(MainMenuItems[selectionIndex]);
+    }
+    SelectionMenu();
 }
 
 async Task LoadTodoItems()
